@@ -1,0 +1,11 @@
+C:\Users\IVAN1\Desktop\Logika\Steg\Steg\bin\Debug\Steg.exe.config
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\bin\Debug\Steg.exe.config
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\bin\Debug\Steg.exe
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\bin\Debug\Steg.pdb
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\obj\Debug\Steg.Form1.resources
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\obj\Debug\Steg.Properties.Resources.resources
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\obj\Debug\Steg.csproj.GenerateResource.Cache
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\obj\Debug\Steg.csproj.CoreCompileInputs.cache
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\obj\Debug\Steg.exe
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\obj\Debug\Steg.pdb
+C:\Users\MyLegendarPC\Desktop\Steg\Steg\Steg\obj\Debug\Steg.csprojResolveAssemblyReference.cache
